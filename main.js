@@ -9,7 +9,7 @@ var YOUR_PRODUCT_ID = 0;
 
 
 var that = {
-	baseUrl: "https://api.staging.particle.io",
+	baseUrl: "https://api.particle.io",
 
 	GENERIC_PUBLIC_KEY:  "-----BEGIN PUBLIC KEY-----\n" +
 		"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBLiA/XITqywdja3J2dCPLfqcU\n" +
