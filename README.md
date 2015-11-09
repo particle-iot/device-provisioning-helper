@@ -1,6 +1,7 @@
 Device provisioning helper script!
 ===
 
+```
 #
 # Clone this repo!
 #
@@ -21,5 +22,5 @@ npm install
 # Provision a device!
 #
 node main.js SOME_NEW_DEVICE 
-
+```
 
