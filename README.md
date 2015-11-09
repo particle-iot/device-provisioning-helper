@@ -1,6 +1,15 @@
 Device provisioning helper script!
 ===
 
+1.) Make sure you have node.js installed https://nodejs.org/en/
+
+2.) Get the code and install the modules
+
+3.) edit main.js and set YOUR_ACCESS_TOKEN and YOUR_PRODUCT_ID
+
+4.) enjoy!
+
+
 ```
 #
 # Clone this repo!
