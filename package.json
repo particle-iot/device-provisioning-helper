@@ -1,0 +1,14 @@
+{
+  "name": "provisioning-script",
+  "version": "1.0.0",
+  "description": "A small script to help provision devices!  Set your access_token and product_id, and then call the script with a deviceID and keyfile",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.65.0"
+  }
+}
